@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Anuj Dharurkar</h1> </br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Anuj Dharurkar</h1> </br>
 
 
 Hey there! I'm Anuj, a final year computer engineering student who is all about technology.
 
-## 📱 Android Development Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="30" height="30" /> Android Development Journey
 I've had a blast developing for Android using Kotlin & Java, tackling various personal projects in this domain. Recently, I've been exploring Android design patterns and diving deep into Jetpack Compose, finding the experience super exciting.
 
-## 💻 Full Stack Web Development Exploration
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Full Stack Web Development Exploration
 Currently, I'm expanding my horizons into full-stack web development. I've been learning React & Next.js to create responsive and dynamic web applications and have created multiple projects be sure to check them out.
 
-## 😁About me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" /> About me:
 I enjoy dabbling in new technologies and find it fascinating to work with new tech stacks from time to time.
 
 I'm always open to learning new things and open to collaborating on interesting projects. If you've got something exciting in mind, feel free to reach out!
