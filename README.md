@@ -21,31 +21,26 @@ Thanks for stopping by!
 ## Skills :
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Java" width="40" height="40"/>
-<br/>
 
+  <a href="https://github.com/anujd64#gh-dark-mode-only">
+    
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,html,css,javascript,typescript,react,nextjs,tailwindcss,spring,mongodb,mysql,firebase,supabase&theme=dark#gh-dark-mode-only" alt="My Skills" >  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="react"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-<br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujd64&show_icons=true&locale=en&layout=compact&theme=react#gh-light-mode-only" alt="anujd64" />  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" />                    
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujd64&show_icons=true,issues&theme=tokyonight#gh-dark-mode-only" />  
+
+  </a>
+  <a href="https://github.com/anujd#gh-light-mode-only">
+  
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,html,css,javascript,typescript,react,nextjs,tailwindcss,spring,mongodb,mysql,firebase,supabase&theme=light#gh-light-mode-only" alt="My Skills" >
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujd64&show_icons=true&locale=en&layout=compact#gh-light-mode-only" alt="anujd64" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujd64&show_icons=true,issues&theme=graywhite#gh-light-mode-only" />
+
+  </a>
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujd64&show_icons=true&locale=en&layout=compact&theme=react" alt="anujd64" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujd64&show_icons=true,issues&theme=tokyonight" />
 
 
 ## Connect with me 🤝
